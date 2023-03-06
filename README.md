@@ -1,1 +1,1 @@
-# react_ts_06
+# How to learn React-TypeScript?
