@@ -10,10 +10,11 @@ React is a JS library that allows us - frontend developers - to develop efficien
 ## Teacher
 Francesca
 *Contact:* 
+```
             **Email:**   fr.gill.101@gmail.com
             **Slack:**   @Francesca
             **Telegram:**   @j_fruits
-
+```
 ## 📝Syllabus 
 
 --SECTION IN PROGRESS--
