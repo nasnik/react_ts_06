@@ -7,7 +7,7 @@
 ## About the course
 React is a JS library that allows us - frontend developers - to develop efficiently. TypeScript is a JS superstructure that gives you better tooling at any scale. The goal is to start building single page applications with ReactJS and TypeScript.
 
-## Teacher
+## 💻Your Teacher
 Francesca
 
 Contact:
